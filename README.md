@@ -36,7 +36,6 @@ This project is aimed at cleaning and filtering a dataset of leads stored in an 
 1. Place the `leads.xlsx` file in the project directory.
 2. Run the Python script:
 ```bash
-Copy
 python clean_data.py
 ```
 3. After execution, the cleaned data will be saved as `filtered-dataset.xlsx`.
