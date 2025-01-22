@@ -20,4 +20,4 @@ filtered_df = df_no_duplicates[mask]
 # Save the filtered DataFrame to a new Excel file
 filtered_df.to_excel('filtered.xlsx', index=False)
 
-print("Processing complete. The file 'filtered.xlsx' has been saved with the desired rows.")
+print("Processing complete. The file 'filtered-database.xlsx' has been saved with the desired rows.")
